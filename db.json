@@ -38,5 +38,24 @@
         }
       ]
     }
+        {
+      "id": "W08QCRPA5",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/mumbai",
+      "activity_periods": [
+        {
+          "start_time": "Jan 2 2020  1:20PM",
+          "end_time": "Jan 2 2020 2:58PM"
+        },
+        {
+          "start_time": "Aug 2 2020  11:00AM",
+          "end_time": "Aug 2 2020 1:01PM"
+        },
+        {
+          "start_time": "Jun 17 2020  6:30PM",
+          "end_time": "Jun 17 2020 9:05PM"
+        }
+      ]
+    }
   ]
 }
